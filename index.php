@@ -92,7 +92,7 @@
 <meta property="og:site_name" content="QuitNow"/>
 <meta property="og:url" content="https://quitnow.app/<?php echo $lang; ?>" />
 <meta property="og:description" content="<?php t('description'); ?>" />
-<meta property="fb:app_id" content="156729571066410" />
+<meta property="og:type" content="website" />
 
 <meta property="og:image" content="https://quitnow.app/images/quitnow-facebook-share.png" />
 <meta property="og:image:type" content="image/png">
@@ -108,6 +108,8 @@
 <meta property="og:image:type" content="image/png">
 <meta property="og:image:width" content="1024">
 <meta property="og:image:height" content="1024">
+
+<meta property="fb:app_id" content="156729571066410" />
 
 <meta name="twitter:card" content="app">
 <meta name="twitter:site" content="@QuitNowApp">
